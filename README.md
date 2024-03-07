@@ -1,0 +1,2 @@
+Este projeto foi criado em paralelo ao Módulo Módulo 43 ‘Projeto 4 - Criação de Sites - Réplica do Pinterest em Flask’ do curso Python Impressionador da Hashtag Treinamentos. 
+Na mesma medida em que as 25 aulas deste módulo iam sendo desenvolvidas, eu replicava o conteúdo no meu computador e depurava paralelamente, voltando e modificando códigos quando necessário, até que o meu projeto executasse exatamente igual ao do instrutor.

@@ -5,6 +5,7 @@ from flask_bcrypt import Bcrypt
 
 app = Flask(__name__)
 app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///comunidade.db"
+# app.config["SQLALCHEMY_DATABASE_URI"] = os.getenv(DATABASE_URL")
 app.config["SECRET_KEY"] = "3e2a5aa4871534057ee856e2a9ac0650"
 
 # abaixo indica que, sempre que for feito um upload de foto, este upload será armazenado no local abaixo
